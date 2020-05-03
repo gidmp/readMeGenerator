@@ -47,6 +47,8 @@ ${data.usage}
 
 **${data.name}**
 
+* Github : [${data.login}](https://github.com/${data.login}/)
+
 ## Contributing
 ------
 
@@ -77,3 +79,4 @@ This project is ${data.license} licensed.
 }
 
 module.exports = generateMarkdown;
+

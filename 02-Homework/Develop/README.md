@@ -1,5 +1,5 @@
 
-# Nioh
+# readme generator
 [![GitHub license](https://img.shields.io/badge/Repository-GitHub-orange.svg)](https://github.com/gidmp/)
 ![license](https://img.shields.io/badge/License-MIT-orange.svg)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md) 
@@ -8,7 +8,7 @@
 ## Description
 ------
 
-Slaying Otakemaru
+a readme generator
 
 ## Table of Contents 
 ------
@@ -46,6 +46,8 @@ none
 
 **Daniel Luke Tanoeihusada**
 
+* Github : [gidmp](https://github.com/gidmp/)
+
 ## Contributing
 ------
 
@@ -61,7 +63,7 @@ npm test
 ## Questions
 ------
 
-<img src="https://avatars2.githubusercontent.com/u/6896220?v=4" alt="i am a guy" width="75px" height="75px">
+<img src="https://avatars2.githubusercontent.com/u/6896220?v=4" alt="no" width="75px" height="75px">
 
 If you have any questions, please contact me, [Daniel Luke Tanoeihusada](danielluke08@gmail.com) directly at danielluke08@gmail.com
 
